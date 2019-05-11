@@ -19,13 +19,9 @@ import org.apache.log4j.PropertyConfigurator;
 import org.bhu.db.mysql.utils.Configure;
 import org.bhu.db.mysql.utils.Instance;
 import org.bhu.db.mysql.utils.UrlPojo;
-import org.bhu.io.FileReader;
-import org.bhu.io.FileWriter;
 import org.bhu.nlp.utils.string.StringHelper;
 import org.bhu.time.utils.TimeFormat;
 import org.bhu.time.utils.TimeHelper;
-
-import net.sf.json.JSONArray;
 
 
 
