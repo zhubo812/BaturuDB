@@ -5,7 +5,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.Map;
 
-import org.bhu.db.es.NewsMapping;
+//import org.bhu.db.es.NewsMapping;
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;
 import org.elasticsearch.action.admin.indices.mapping.put.PutMappingRequest;
 import org.elasticsearch.action.index.IndexResponse;
